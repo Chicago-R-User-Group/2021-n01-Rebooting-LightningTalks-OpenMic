@@ -2,11 +2,10 @@
 
 Please join us in rebooting the Chicago R User Group with an evening of lightning talks and an open mic, live and in person!
 
-<p align="center">
+<div style="text-align: center;">
 <img src="presentations/Parfait-Pandas-IO-Module-R-Data/images/reboot-rtalks-open-mic.png" width="400px" />
-</p>
+</div>
 ​
-
 **Doors open at 5:00, talks begin at 5:30ish!**
 
 The pandemic kept many of us inside, writing copious amounts of new code for our hobbies & jobs. In the spirit of Open Source we welcome you, Chicagoland R users, to attend and consider contributing a short talk on the novel work you're proud of. As always, slides including simple code that can be displayed in a readable way is encouraged. [Register here](https://forms.gle/oE7pXjkUzKyXuvQH9) to present and/or just Bring Your Own Slide Deck! 
@@ -35,7 +34,7 @@ Open Mic: impromptu 5-10 minute talk on any R topic, on a FIFO basis.
 
 - [Peter Carl](https://www.linkedin.com/in/peter-carl/) on Mentoring the [R project in Google Summer of Code](https://github.com/rstats-gsoc/). He brought actual 3x5 cards for this! Reach out to him if interesting in mentoring GSoC students!
 
-- [Parfait Gasana, CRUG organizer](https://www.linkedin.com/in/parfait-gasana-700b8012/) on `Python Pandas` IO module support for R Data (`.Rdata`, `rds`).
+- [Parfait Gasana, CRUG organizer](https://www.linkedin.com/in/parfait-gasana-700b8012/) on Python Pandas IO module support for R Data (`.Rdata`, `rds`).
 
 ---
 
