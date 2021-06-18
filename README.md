@@ -20,7 +20,7 @@ Open Mic: impromptu 5-10 minute talk on any R topic, on a FIFO basis. Scheduled 
 
 [Siraj  Osman Omer](https://www.linkedin.com/in/siraj-osman-omer-67aaa527/) R and WinBUGS Bayesian analysis for crop variety analysis 
 
-[Jeff Ryan](https://www.linkedin.com/in/jeffreyaryan/) on his mmap package: A tasty introduction to the power of memory mapping infinite data, with examples from astronomy and finance.
+[Jeff Ryan](https://www.linkedin.com/in/jeffreyaryan/) on his [mmap package](https://github.com/jaryan/mmap): A tasty introduction to the power of memory mapping infinite data, with examples from astronomy and finance.
 
 **Open Mic Contributions**
 
