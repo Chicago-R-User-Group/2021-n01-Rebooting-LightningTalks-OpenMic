@@ -32,7 +32,7 @@ Open Mic: impromptu 5-10 minute talk on any R topic, on a FIFO basis.
 
 - [Peter Carl](https://www.linkedin.com/in/peter-carl/) on Mentoring the [R project in Google Summer of Code](https://github.com/rstats-gsoc/). He brought actual 3x5 cards for this! Reach out to him if interesting in mentoring GSoC students!
 
-- [Parfait Gasana, CRUG organizer](https://www.linkedin.com/in/parfait-gasana-700b8012/) on Python Pandas IO module support for R Data (`.Rdata`, `rds`).
+- [Parfait Gasana, CRUG organizer](https://www.linkedin.com/in/parfait-gasana-700b8012/) on [Python Pandas IO module support for R Data (`.Rdata`, `rds`)](https://raw.githack.com/Chicago-R-User-Group/2021-n01-Rebooting-LightningTalks-OpenMic/main/presentations/Parfait-Gasana-Pandas-IO-Module-R-Data/Pandas-IO-Module-R-Data.html).
 
 ---
 
