@@ -2,9 +2,9 @@
 
 Please join us in rebooting the Chicago R User Group with an evening of lightning talks and an open mic, live and in person!
 
-<div style="text-align: center;">
-<img src="presentations/Parfait-Pandas-IO-Module-R-Data/images/reboot-rtalks-open-mic.png" width="400px" />
-</div>
+<span style="margin:auto; display:table;">
+<img src="presentations/Parfait-Gasana-Pandas-IO-Module-R-Data/images/reboot-rtalks-open-mic.png" width="400px" />
+</span>
 ​
 **Doors open at 5:00, talks begin at 5:30ish!**
 
