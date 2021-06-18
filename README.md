@@ -2,10 +2,8 @@
 
 Please join us in rebooting the Chicago R User Group with an evening of lightning talks and an open mic, live and in person!
 
-<span style="margin:auto; display:table;">
 <img src="presentations/Parfait-Gasana-Pandas-IO-Module-R-Data/images/reboot-rtalks-open-mic.png" width="400px" />
-</span>
-​
+
 **Doors open at 5:00, talks begin at 5:30ish!**
 
 The pandemic kept many of us inside, writing copious amounts of new code for our hobbies & jobs. In the spirit of Open Source we welcome you, Chicagoland R users, to attend and consider contributing a short talk on the novel work you're proud of. As always, slides including simple code that can be displayed in a readable way is encouraged. [Register here](https://forms.gle/oE7pXjkUzKyXuvQH9) to present and/or just Bring Your Own Slide Deck! 
